@@ -1,4 +1,4 @@
 LMU-ATD (Adaptive Threshold Detector)
 =======
 
-A software implementation of a CA-CFAR built to run on any microprocessor that supports C
+An efficient software implementation of a CA-CFAR built to run on any microprocessor that supports C
